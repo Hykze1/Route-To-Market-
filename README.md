@@ -1,5 +1,8 @@
 # Route-To-Market-Trade Depot USING EXCEL
 
+![trade](https://github.com/Hykze1/Route-To-Market-/assets/100960483/d7175708-f701-41c3-9a2e-b957ee58c708)
+
+
 # Introduction 
 
 This is a sample dataset of orders generated on the TradeDepot platform for the month of December, 2020
@@ -11,6 +14,7 @@ The dataset contains 15 columns and 2046 row. The details of the columns include
 Fields	  Definitions	
 
 OrderedAt Date 	  The Order Date
+
 
 Order No.        	The Unique Order Number for Each Order	
 
